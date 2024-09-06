@@ -18,6 +18,7 @@ This is a twitch account/token creator
 ・More features when the goals below are reached!
 ```
 
+![none](https://github.com/user-attachments/assets/9e3a9d8b-ecd7-431b-801d-b35b9a90d402)
 
 
 
